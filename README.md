@@ -5,15 +5,13 @@
   DropIt is a File Uploader built with nodejs
 </p>
 
-![alt text](https://github.com/ThalKod/DropIt/blob/master/public/img/Screen%20Shot%202018-06-08%20at%2010.36.39%20AM.png)
 
-[Demo](https://dropit0.herokuapp.com/)
 
 # :floppy_disk: Installation
 
 ```bash
 # clone the repo
-$ git clone https://github.com/ThalKod/DropIt.git
+$ git clone https://github.com/AMCorvi/drop.git
 
 # install the requirements
 $ npm install
